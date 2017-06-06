@@ -1,0 +1,9 @@
+{
+  "name": "bit-auth-passwordless-client",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.0.1",
+    "mocha": "^3.4.2"
+  }
+}
